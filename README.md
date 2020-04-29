@@ -1,2 +1,2 @@
 # admision-2020
-Trabajos de Algoritmica
+TRABAJOS DE ALGORITMICA
